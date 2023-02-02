@@ -30,7 +30,7 @@ global.botscript = 'https://github.com/dionesankh/trollagens11' //script link
 global.themeemoji = "//" //ur theme emoji
 global.packname = "Sticker By Grupo Trollagens //ur sticker watermark packname
 global.author = Grupo Trollagens //ur sticker watermark author
-global.wm = "Grupo Trollagens " //ur watermark
+global.wm = "Grupo Trollagens" //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -39,18 +39,18 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: 'Here you go!',
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
-    premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
-    group: 'Features Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature could be used by bot only',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    success: 'Parabéns!',
+    admin: 'Recurso usado por admins!',
+    botAdmin: 'Recurso usado por admins!',
+    premime: 'Recurso premium',
+    owner: 'Este recurso só pode ser usado pelo dono do grupo',
+    group: 'Recursos somente para o grupo!',
+    private: 'Este recurso só poder ser usado em chat privado!',
+    bot: 'Este recurso só pode ser utilizado pelo BOT',
+    wait: 'Aguarde...',
+    linkm: 'Cadê o link?',
+    endLimit: 'Seu limite diário expirou, aguarde 12 horas.',
+    nsfw: 'Este recurso não foi ativado, entre em contato com o dono.',
 }
 
 //media target
